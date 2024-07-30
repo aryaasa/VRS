@@ -15,6 +15,6 @@ can be used for rehabilitation.
 movements to help patients practice balance exercises in a safe and 
 controlled environment
 
- This system aims to improve the precision and efficacy of 
+   This system aims to improve the precision and efficacy of 
 rehabilitation exercises while enhancing patient engagement through 
 integrating virtual reality
